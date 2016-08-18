@@ -1,0 +1,14 @@
+layout_spectrum: 0.8832453
+typography_spectrum: 0.7040472
+color:
+  lightness: 0.2104079
+  brandStrength: 0.7568922
+  saturation: 0.3135891
+  rhythmicContrast: 0.6509309
+  brandColors:
+    - '#FFFFFF'
+    - '#017BD8'
+    - '#90A07F'
+    - '#59634D'
+    - '#60D9F3'
+name: LoGoVideos
